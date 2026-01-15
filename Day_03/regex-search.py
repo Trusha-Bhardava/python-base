@@ -1,6 +1,6 @@
 import re
 text="hello to this cat !"
-pattern=r"this"
+pattern= "this"
 
 match=re.search(pattern,text)
 if match:
