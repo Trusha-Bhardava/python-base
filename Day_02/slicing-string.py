@@ -1,5 +1,2 @@
-text="full stck web development"
-uppercase=text.upper()
-lowercase=text.lower()
-print(uppercase)
-print(lowercase)
+b="hello to you"
+print (b[2:5])
